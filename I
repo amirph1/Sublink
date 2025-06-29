@@ -1,3 +1,4 @@
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@2.56.126.76:443?security=reality&encryption=none&pbk=XThpnyytziagvWMwmxGuSQ0nqfUw2sosq49F2fUEzmk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0ca18da2c8f9#%F0%9F%92%A3telegram%20%40V2rayLand9
-vmess://eyJhZGQiOiI5OS4xOTkuODMuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMzY3OCIsInBzIjoi8J+So3RlbGVncmFtIEBWMnJheUxhbmQ5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANELll%C3%84%C2%BA&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cbfe#%40v2rayland9
+vless://228f2e24-8c78-41ef-bac6-5a53cbc3ec56@135.181.201.193:80?mode=auto&path=%2Fcfgfdfgg&security=reality&encryption=none&pbk=Rq4WW2rlu0sTxwmirYB1l4idEsO4R2CkhnbpOUiUim8&host=fnreact.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=0e#%F0%9F%92%A3telegram%20%40V2rayLand9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@131.145.85.26:443#%F0%9F%92%A3telegram%20%40V2rayLand9
+
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@5.182.46.64:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#%F0%9F%92%A3telegram%20%40V2rayLand9
